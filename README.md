@@ -1,6 +1,6 @@
 # -solana-dao-toolkit-
 # Install Git first: https://git-scm.com/downloads
-git clone https://github.com/your-username/solana-dao-toolkit.git
+git clone https://github.com/Gabriel22243/solana-dao-toolkit.git
 cd solana-dao-toolkit
 git add .
 git commit -m "Initial MVP commit: voting module"
